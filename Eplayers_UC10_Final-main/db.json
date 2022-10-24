@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "caiolsdev@email.com",
+      "password": "$2a$10$Kp0gUQ4mi/YIW69NDIfKZ.UvccFahZzPz4P7GKBT6mbr80XWkAVY2",
+      "id": 1
+    },
+    {
+      "email": "SadoMasoDJ@email.com",
+      "password": "$2a$10$tWJQFYGh7NfyvVxyRbnazOwmRwJB9YSDksjMHtNo5iiGI7/R2R5G.",
+      "id": 2
+    },
+    {
+      "email": "PsyArt@email.com",
+      "password": "$2a$10$BVfnMYDcLBDtzx5zX5KQIOURui50yKyJ7sTm/ETa7E8szz8jteECy",
+      "id": 3
+    }
+  ]
+}
